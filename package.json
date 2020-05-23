@@ -1,7 +1,12 @@
 {
   "name": "line-num-toggle",
   "displayName": "Line Num Toggle",
+  "publisher": "jfacoustic",
   "description": "toggles how line numbers are displayed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfacoustic/VSCode-Toggle-Line-Numbers-Plugin"
+  },  
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.40.0"
